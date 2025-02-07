@@ -1,4 +1,5 @@
-#### Exercise 0: Environment and libraries
+#### Exercise 0: Environment and libraries  
+I use this: https://www.jetbrains.com/help/pycharm/creating-virtual-environment.html#python_create_virtual_env
 
 ##### Install the virtual environment with `requirements.txt`
 
