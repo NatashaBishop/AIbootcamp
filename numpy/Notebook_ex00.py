@@ -11,7 +11,8 @@ We suggest utilizing:
 - Choose a virtual environment that aligns with your familiarity. Common choices among Data Science practitioners are `virtualenv` and `conda`.
 - Install the most recent versions of the required libraries to ensure compatibility and access to the latest features
 
-1. Begin by creating a virtual environment named `ex00` that utilizes Python version `3.8`. Install the required libraries `numpy` and `jupyter`. Save the installed packages to a file named `requirements.txt`, located in the current directory.
+1. Begin by creating a virtual environment named `ex00` that utilizes Python version `3.8`. Install the required libraries `numpy` and `jupyter`. 
+Save the installed packages to a file named `requirements.txt`, located in the current directory.
 
 2. Launch a `jupyter` notebook or `JupyterLab` on port `8891`. Create a new notebook named `Notebook_ex00`.
 
@@ -27,3 +28,6 @@ We suggest utilizing:
 - [numpy](https://numpy.org/)
 - [Jupyter Notebook Shortcuts](https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330)
 - [Why You Should be Using Jupyter Notebooks](https://odsc.medium.com/why-you-should-be-using-jupyter-notebooks-ea2e568c59f2)'''
+
+# Python version is installed. CHeck the Python version 3.12.1: python --version 
+# output: Python 3.12.1    
